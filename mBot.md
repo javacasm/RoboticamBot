@@ -16,7 +16,7 @@
 
 #### Placa mBot
 
-![placa mbot]./images/placa.jpg)
+![placa mbot](./images/placa.jpg)
 
 
 #### Sensores incluidos en la placa
