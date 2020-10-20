@@ -1,5 +1,26 @@
 # Iniciación a Scratch
 
+
+## ¿Por qué usar Scratch/makeBlock?
+
+
+![scratch](./images/juego-de-persigue-con-scratch.gif)
+
+# [Scratch](https://scratch.mit.edu/)
+
+### Es un entorno de programación creado en el **MIT** por [Mitchel Resnick](https://www.media.mit.edu/people/mres)
+([A Different Approach to Coding](https://medium.com/bright/a-different-approach-to-coding-d679b06d83a#.734u3gfm8) y [su mágnifica charla TED](https://www.ted.com/talks/mitch_resnick_let_s_teach_kids_to_code?language=es))
+
+Podemos usarlo desde [acceso web](https://scratch.mit.edu/projects/editor) y como [aplicación de escritorio](https://scratch.mit.edu/scratch2download/).
+
+(Hay versiones para usar offline: 1.4, 2.0 y 3.0)
+
+(Las primeras versiones usan tecnología propietaria de Adobe (Air), por lo podría no funcionar en todos los dispositivos)
+
+Existe una enorme [comunidad](https://scratch.mit.edu/starter_projects/)
+
+
+
 Usaremos una ampliación de Scratch (Ventajas del código abierto!!) llamada mBlock
 
 ## Descripción del interface
@@ -53,6 +74,9 @@ Podemos ejecutar movimientos o reposicionarlo sin más que hacer doble click en 
 	8. Giro
 
 ![cuadradoSinBucle](./images/CuadradoSinBucle.png)
+
+
+![coordenadas](./images/3_ejes.png)
 
 ## Antes de hacer otro ejemplo vamos a guardar este. Podemos hacerlo dándole nombre y también podemos descargarlo a nuestro PC
 
@@ -127,9 +151,6 @@ Ejemplos/Copo de nieve coloreado.sb2
 ## Colores
 ## Ocultamos al Panda
 
-
-ScratchInteraccion.md
-
 ## Eventos
 ### Teclas
 ### Raton
@@ -176,4 +197,39 @@ ScratchInteraccion.md
 
 ![disfraces](./images/disfraz.png)
 
+## Creando nuestros propios bloques (objetos)
+
+### Scratch nos permite definir nuevos bloques
+
+![Bloques](./images/Bloques.png)
+
+Ejercicio: Dibujar una estrella formada por n polígonos de m lados, cada uno de un color
+
+![bloques propioes](./images/BloquesPropios.png)
+
+
+Ejemplos/CreandoBloques.sb2
+
+
+## Array/Lista en Scratch
+
+Un Array/Lista no es más que una colección de variables que podemos usar juntas.
+
+![Array](./images/Array.png)
+
+Se suelen utilizar para guardar grupos de valores.
+
+Podemos acceder a sus valores como vemos en el siguiente programa
+
+![ProgramaArray.png](./images/ProgramaArray.png)
+
+Un ejemplo típico es un programa de preguntas y respuestas
+
+![arrays_PreguntasRespuestas.png](./images/arrays_PreguntasRespuestas.png)
+
+Podemos importar/exportar los valores de un Array/Lista desde la pantalla
+
+
+Cuando guardamos un programa se guardan los valores de todos los arrays.
+Podemos borrar todos los valores con el bloque "Borrar" seleccionando la opción "Todos"
 
