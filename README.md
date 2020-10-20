@@ -1,5 +1,9 @@
 # Robótica con mBot
 
+IES Pedro Jiménez Montoya
+
+## http://bit.ly/RobmBot
+
 Licencia CC by @javacasm
 
 ![Licencia CC](./images/Licencia_CC.png)
