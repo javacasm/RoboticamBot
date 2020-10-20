@@ -1,8 +1,19 @@
-## mBlock
+# mBlock
 
+## https://ide.mblock.cc/#/
+
+o [descargamos](https://mblock.makeblock.com/en-us/download/)
+
+[Instalación](https://www.mblock.cc/doc/en/old/mlink-quick-start-guide.html)
+
+En linux
+```
+sudo mblock-mlink start
+
+```
 ![icono mBlock](./images/icono_mBlock.png)
 
-![mBlock](./images/mBlock)
+![mBlock](./images/mBlock.png)
 
 ### Uso de mBlock
 
@@ -27,7 +38,7 @@ Tenemos 2 modos de funcionamiento:
 
 Podemos usar todos los bloques disponibles con lo que nuestro programa se ejecuta en el pc (actuando sobre los objetos) y en el robot (con todas las acciones que realizamos sobre este)
 
-Nuestro acciones que enviamos al robot se interpretan sobre un [firmware base](./InstalacionFirmware.md) que tenemos que tener instalado en este
+Nuestro acciones que enviamos al robot se interpretan sobre un **firmware base** que tenemos que tener instalado en este
 
 
 #### Modo Arduino
