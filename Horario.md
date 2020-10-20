@@ -14,16 +14,14 @@
 * [Interacción con robots MakeBlock](./InteracionRobots.Makeblock.md) (3h)
 
 
-#### Programación avanzada en Scratch
-* [Creando bloques (funciones)](./ScratchFunciones.md) (1h)
-* [Utilizando Arrays para almacenar](./ScratchArrays.md) (1h)
+#### Programación avanzada en Scratch (1h)
+* [Creando bloques (funciones)](./Scratch.md#creando-nuestros-propios-bloques-objetos)
+* [Utilizando Arrays para almacenar](./Scratch.md#arraylista-en-scratch) (1h)
 
 #### Robótica
 
 * [Siguiendo el camino: siguelíneas](./Siguelineas.md) (1h)
 * [Esquivando obstáculos](./Obstaculos.md) (1h)
-* Otras Plataformas: [mBot Rosa](./mBotRosa.md) (1h)
-
 
 #### Programación
 * [Videojuegos con Scratch](./VideojuegosScratch.md) (2h)
