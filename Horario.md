@@ -24,6 +24,8 @@
 * [Esquivando obstáculos](./Obstaculos.md)
 
 
+[Otros proyectos](./OtrosProyectos.md)
+
 #### Programación avanzada
 * [Videojuegos con Scratch](./VideojuegosScratch.md) (2h)
 * [Código Arduino](./CodigoArduino.md) (2h)
