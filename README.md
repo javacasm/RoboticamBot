@@ -1,5 +1,9 @@
 # Robótica con mBot
 
+Licencia CC by @javacasm
+
+![Licencia CC](./images/Licencia_CC.png)
+
 # Introducción
 
 El objetivo de esta documentación es aprender a usar un entorno de programación por medio de bloques que se denomina Scratch y que permite desarrollar aplicaciones a la vez que se interacciona con los equipos de iniciación a la robótica de MakeBlock.
