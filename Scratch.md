@@ -196,10 +196,33 @@ Ejemplos/Copo de nieve coloreado.sb2
 
 ### Un mismo personaje puede tener varios disfraces
 
-
 ### Ejercicio: crea una animación con varios disfraces
 
 ![disfraces](./images/disfraz.png)
+
+
+### Ejemplo sencillo de juego de persecución
+
+![](./images/Oso-muercielago.png)
+
+Juego con puntuación, donde controlamos a un oso con las teclas, al que persigue un murciélago de manera automática.
+
+[Oso vs Muciélago](https://scratch.mit.edu/projects/439559777)
+
+Bloques del Oso donde vemos que lo controlamos con las teclas y donde detectamos que cuando la puntuación llega a 0, ocultamos al oso
+
+![](./images/Oso-bloques.png)
+
+Bloques del murciélago que persigue a nuestro oso
+
+![](./images/Murcielago-bloques.png)
+
+
+Al llegar la puntuación a 0 ocultamos el oso y cambiamos al fondo Game Over
+
+### Mejoras
+* Añadir un contador de tiempo y al llegar a 0 terminar la partida
+* Añadir sonidos
 
 ## Creando nuestros propios bloques (objetos)
 
