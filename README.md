@@ -1,6 +1,5 @@
 # Robótica con mBot
 
-IES Pedro Jiménez Montoya
 
 ## http://bit.ly/RobmBot
 
